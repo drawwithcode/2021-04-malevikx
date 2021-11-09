@@ -1,4 +1,8 @@
-html, body {
+html,
+body {
+  unicode-range: U+25B6;
+  font-family: "IBM Plex Mono", monospace;
+  color: white;
   margin: 0;
   padding: 0;
 }
